@@ -419,7 +419,20 @@ reactjs-nginx-ubuntu
 #
 
 #
-#
+# vi /etc/nginx/sites-available/sodi9.store
+        sangbinlee9@master:~$ vi /etc/nginx/sites-available/sodi9.store
+
+![image](https://github.com/sangbinlee/reactjs-nginx-ubuntu/assets/4024414/2c9c3cae-811a-4056-b123-0985283941d9)
+
+
+
+
+![image](https://github.com/sangbinlee/reactjs-nginx-ubuntu/assets/4024414/3f77fd59-10bd-4ea6-8457-3409ac527af4)
+
+
+![image](https://github.com/sangbinlee/reactjs-nginx-ubuntu/assets/4024414/34d4285c-eaf4-41bd-bf74-81579f88c8f6)
+
+![image](https://github.com/sangbinlee/reactjs-nginx-ubuntu/assets/4024414/bbec151d-68ec-48d4-8e57-5c3b8cb1a716)
 
 #
 #
