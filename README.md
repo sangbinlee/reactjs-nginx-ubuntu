@@ -461,6 +461,12 @@ reactjs-nginx-ubuntu
         [sudo] password for sangbinlee9:
         sangbinlee9@master:/var/www/html$
 
+
+![image](https://github.com/sangbinlee/reactjs-nginx-ubuntu/assets/4024414/6b9607a4-a45b-4aff-ab0a-97b049a1a048)
+
+
+
+
 ![image](https://github.com/sangbinlee/reactjs-nginx-ubuntu/assets/4024414/34e9e70a-a0e1-446e-bcbf-b42fa46812e2)
 
 #
