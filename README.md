@@ -455,7 +455,13 @@ reactjs-nginx-ubuntu
 #
 
 #
-#
+#  sudo vi index.nginx-debian.html
+        
+        sangbinlee9@master:/var/www/html$ sudo vi index.nginx-debian.html
+        [sudo] password for sangbinlee9:
+        sangbinlee9@master:/var/www/html$
+
+![image](https://github.com/sangbinlee/reactjs-nginx-ubuntu/assets/4024414/34e9e70a-a0e1-446e-bcbf-b42fa46812e2)
 
 #
 #
