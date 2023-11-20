@@ -434,6 +434,9 @@ reactjs-nginx-ubuntu
 
 ![image](https://github.com/sangbinlee/reactjs-nginx-ubuntu/assets/4024414/bbec151d-68ec-48d4-8e57-5c3b8cb1a716)
 
+
+![image](https://github.com/sangbinlee/reactjs-nginx-ubuntu/assets/4024414/0cea6ffa-bec0-4fe7-9ce9-957720f69dbb)
+
 #
 #
 
