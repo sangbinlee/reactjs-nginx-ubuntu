@@ -414,9 +414,20 @@ reactjs-nginx-ubuntu
 
 #
 #
+![image](https://github.com/sangbinlee/reactjs-nginx-ubuntu/assets/4024414/4a6aad97-534e-42c0-916e-f028f10c3bf0)
 
 #
 #
+        
+        sangbinlee9@master:/etc/nginx/sites-enabled$ ll
+        total 8
+        drwxr-xr-x 2 root root 4096 Nov 20 02:10 ./
+        drwxr-xr-x 8 root root 4096 Nov 20 04:32 ../
+        lrwxrwxrwx 1 root root   34 Nov 20 01:51 default -> /etc/nginx/sites-available/default
+        lrwxrwxrwx 1 root root   38 Nov 20 02:10 sodi9.store -> /etc/nginx/sites-available/sodi9.store
+        sangbinlee9@master:/etc/nginx/sites-enabled$ pwd
+        /etc/nginx/sites-enabled
+        sangbinlee9@master:/etc/nginx/sites-enabled$
 
 #
 # vi /etc/nginx/sites-available/sodi9.store
